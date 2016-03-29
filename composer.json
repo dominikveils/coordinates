@@ -2,6 +2,12 @@
     "name": "dominikveils/coordinates",
     "description": "Simple Geo coordinates helpers",
     "license": "MIT",
+    "keywords": [
+      "coordinates",
+      "geo coordinates",
+      "distance",
+      "geo"
+    ],
     "authors": [
         {
             "name": "Dominik Veils",
