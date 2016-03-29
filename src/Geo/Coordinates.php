@@ -13,16 +13,6 @@ class Coordinates
     const EARTH_RADIUS = 6367.4447;
 
     /**
-     * Set of coordinates
-     *
-     * @param array $coordinates
-     */
-    public function setCoordinates(array $coordinates)
-    {
-        $coordinates = $coordinates;
-    }
-
-    /**
      * Checks if POINT($sx, $sy) within the coordinates
      *
      * @param integer $sx Latitude
